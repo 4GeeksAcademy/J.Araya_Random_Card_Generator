@@ -11,25 +11,17 @@
 }
 
 
-.spade{    
+.negro{    
     color: black;   
     font-size: 60px;
 }
 
-.club{
-    color: black;
-    font-size: 60px;
-}
 
-.heart{
+.rojo{
     color: red;
     font-size: 60px;
 }
 
-.diamond{
-    color: red;
-    font-size: 60px;
-}
 
 .num{
     font-size: 150px;
