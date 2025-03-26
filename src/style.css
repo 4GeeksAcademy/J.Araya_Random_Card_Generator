@@ -1,5 +1,37 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+.bckg{
+    background-color: green;
+    height: 100vh;
+}
+
+.card{
+    background-color: white;
+    border: 5px;
+    border-color: black;
+}
+
+
+.spade{    
+    color: black;   
+    font-size: 60px;
+}
+
+.club{
+    color: black;
+    font-size: 60px;
+}
+
+.heart{
+    color: red;
+    font-size: 60px;
+}
+
+.diamond{
+    color: red;
+    font-size: 60px;
+}
+
+.num{
+    font-size: 150px;
+
 }
